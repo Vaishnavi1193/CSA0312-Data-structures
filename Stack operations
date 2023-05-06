@@ -83,3 +83,51 @@ void show()
             printf("%d\n", inp_array[i]);
     }
 }
+Output :
+Perform operations on the stack:
+1.Push the element
+2.Pop the element
+3.Show
+4.End
+
+Enter the choice: 1
+
+Enter the element to be added onto the stack: 3
+
+Perform operations on the stack:
+1.Push the element
+2.Pop the element
+3.Show
+4.End
+
+Enter the choice: 1
+
+Enter the element to be added onto the stack: 4
+
+Perform operations on the stack:
+1.Push the element
+2.Pop the element
+3.Show
+4.End
+
+Enter the choice: 2
+
+Popped element: 4
+Perform operations on the stack:
+1.Push the element
+2.Pop the element
+3.Show
+4.End
+
+Enter the choice: 3
+
+Elements present in the stack:
+3
+
+Perform operations on the stack:
+1.Push the element
+2.Pop the element
+3.Show
+4.End
+
+Enter the choice: 4
