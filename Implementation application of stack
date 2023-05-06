@@ -110,3 +110,6 @@ int main ()
   covertInfixToPostfix (expression);
   return 0;
 }
+Output:
+Infix Expression : ((a+(b*c))-d)
+Postfix Expression:abc*+d-
